@@ -3,7 +3,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace WelcomeToDocker.Migrations
+namespace ConsoleApplication.Migrations
 {
     /// <inheritdoc />
     public partial class People : Migration
